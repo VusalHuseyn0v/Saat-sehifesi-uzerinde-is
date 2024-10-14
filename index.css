@@ -1,0 +1,77 @@
+section{
+    background-color: black;
+    width: 100vw;
+    height: 600px;
+    padding: 10px;
+}
+.navbar{
+    display: flex;
+  }
+  .navbar>.logo{
+    position: relative;
+    left: 500px;
+  }
+.navbar>.ikonlar{
+    position: relative;
+    left: 1200px;
+   margin-left: 5px;
+}
+.home{
+    color: gray;
+    gap: 10px;
+    position: relative;
+    left: 700px;
+    top: -28px;
+}
+.home>span{
+    margin-left: 20px;
+}
+.merkez>img{
+    width: 250px;
+    position: relative;
+    left: 1050px;
+    top: 160px;
+}
+.sozler>h1{
+color: white;
+font-size: 40px;
+}
+h1>p{
+    margin: 5px;
+}
+h1{
+    margin: 0px;
+}
+.sozler>p{
+    color: grey;
+    width: 360px;
+}
+.sozler{
+    position: relative;
+    top: -160px;
+    left: 500px;
+    width: 300px;
+}
+.sozler>.axtaris_sekil{
+    width: 300px;
+}
+.sozler>{
+    height: 150px;
+}
+.saatlar{
+    display: flex;
+    width: 400px;
+    height: 200px;
+    position: relative;
+    left: 360px;
+ 
+  
+}
+.saatlar>.s{
+    background-color: #F6F6F6;
+    margin-left: 150px;
+}
+button{
+    color:white;
+    background-color: blue;
+}
